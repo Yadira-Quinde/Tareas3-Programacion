@@ -18,8 +18,8 @@ El color blanco aparece por defecto.
 ![image](https://github.com/Yadira-Quinde/Tareas3-Programacion/assets/168947646/a0c03d82-1440-45e5-8726-456f7ddf8c20)
 
 ## Conclusión
-**Uso de controles JavaFX:** muestra cómo integrar y manejar eventos desde controles interactivos como DatePicker y ColorPicker. 
-**Manejo de eventos:** utilice EventHandler para responder de manera eficiente a las acciones del usuario. 
-**Formato y visualización de datos:** muestra cómo formatear y mostrar los datos seleccionados por el usuario de manera legible. 
-**Diseño de interfaz de usuario:** utilice VBox para organizar elementos en una interfaz organizada y separada. 
+- **Uso de controles JavaFX:** muestra cómo integrar y manejar eventos desde controles interactivos como DatePicker y ColorPicker. 
+- **Manejo de eventos:** utilice EventHandler para responder de manera eficiente a las acciones del usuario. 
+- **Formato y visualización de datos:** muestra cómo formatear y mostrar los datos seleccionados por el usuario de manera legible. 
+- **Diseño de interfaz de usuario:** utilice VBox para organizar elementos en una interfaz organizada y separada. 
 Esta aplicación es un ejemplo útil y práctico para los desarrolladores que desean implementar controles de selección de fecha y color en sus proyectos JavaFX.
